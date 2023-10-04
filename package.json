@@ -5,7 +5,7 @@
   "main": "tailwind.config.js",
   "scripts": {
     "start": "parcel index.html --port 1235",
-    "build": "parcel build index.html --port 1235",
+    "build": "parcel build index.html",
     "test": "jest"
   },
   "repository": {
